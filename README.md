@@ -4,7 +4,7 @@
 
 </br>
 
-![바넬로피](https://i.pinimg.com/564x/bf/64/2f/bf642fcae863222d9f6c48a0245a69fd.jpg)  
+![9q6_ceA1dPpSMDUWFvZ7WfEEZyUoMryGpRSt0TIFFRIUuMzC1RtI4rgIG9vweDFDGwEUqvJm7-q3yJsV9TMCnw-ezgif com-video-to-gif-converter](https://github.com/jegyun/jegyun/assets/175270500/ce43e56a-cd05-4d70-8b6c-576485dc8b3c)  
 ***President Vallelope Von Schweetz!***  
 
   
