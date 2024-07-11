@@ -10,8 +10,7 @@
 ***President Vallelope Von Schweetz!***  
 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jegyun&show_icons=true&theme=radical)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jegyun&show_icons=true$custom_title=Mumani's&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)  
 
 #### 😀BackJoon_Tier
 [![Solved.ac
