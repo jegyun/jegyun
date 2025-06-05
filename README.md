@@ -22,10 +22,10 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-round&logo=Django&logoColor=white"/>
 </br>
 <img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-round&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-round&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-round&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-round&logo=TailwindCSS&logoColor=white"/>
 
 #### 😁GIT
 <img src="https://img.shields.io/badge/github-FC6D26?style=flat-round&logo=github&logoColor=white"/>
