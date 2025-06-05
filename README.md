@@ -18,11 +18,14 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-round&logo=python&logoColor=white"/> 
-</br>
-<img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>  
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-round&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-round&logo=Django&logoColor=white"/>
+</br>
+<img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-round&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
 
 #### 😁GIT
 <img src="https://img.shields.io/badge/github-FC6D26?style=flat-round&logo=github&logoColor=white"/>
@@ -30,7 +33,6 @@
 
 #### 🥇 Call ME
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-round&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/docusaurus-3ECC5F?style=flat-round&logo=docusaurus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-round&logo=Naver&logoColor=white"/>
 </div>
 
